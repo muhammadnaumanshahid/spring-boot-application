@@ -16,7 +16,9 @@ Make following changes.
 * Navigate to the path of directory **demo**.
 * Run the application using the command *mvn spring-boot:run*.
 * Open your default browser and use the following web-links to *get_mails* from and *set_mail* to the database.
+  
   *http://localhost:8080/get_mails*
+  
   *http://localhost:8080/set_mail?mail=demo@demo.com*
 ## Task-III
 Make following changes.

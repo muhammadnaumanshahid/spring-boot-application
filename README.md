@@ -1,2 +1,2 @@
-# spring_boot_application
+# How to Make Web Application Using Spring Boot
 This project illustrates how to develop a "Hello World" web application using Spring Boot, a server-side programming tool.

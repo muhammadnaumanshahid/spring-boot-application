@@ -1,5 +1,5 @@
 # How to Make a Web Application Using Spring Boot
-This tutorial illustrates several micro-services characteristics. You will learn how to develop a “Hello World” web application using Spring Boot, a server-side programming tool.
+*Spring Boot* is a convenient tool for rapidly developing any Spring application. It simplifies the process of developing stand-alone, production-grade Spring-based applications that “*just run*”. It has preset configurations that save you time and avoid maintenance of a large amount of boilerplate code. In this tutorial, we develop a “*Hello World*” application and experiment with some microservices options.
 
 The tutorial uses following packages/software.
 

@@ -54,4 +54,4 @@ Make following changes.
   
   *http://localhost:8081/greeting*
   
-  The tutorial is available at [Medium](https://nauman-shahid.medium.com/how-to-make-a-web-application-using-spring-boot-4c89c8e7053e?sk=2b98056cea2dd973474ef3c41b91bf92).
+  The tutorial is available at [**Medium**](https://nauman-shahid.medium.com/how-to-make-a-web-application-using-spring-boot-4c89c8e7053e?sk=2b98056cea2dd973474ef3c41b91bf92).

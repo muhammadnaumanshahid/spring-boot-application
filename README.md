@@ -1,5 +1,5 @@
 # How to Make a Web Application Using Spring Boot
-This project illustrates how to develop a "Hello World" web application using Spring Boot, a server-side programming tool.
+This tutorial illustrates several micro-services characteristics. You will learn how to develop a “Hello World” web application using Spring Boot, a server-side programming tool.
 ## Task-I
 * Generate Maven project at [Spring Initializr](https://start.spring.io). 
 * This Maven project tutorial uses *Java* JDK 17 and *Spring Boot* 2.5.5.

@@ -24,7 +24,7 @@ Name | demo
 Description | Demo project for Spring Boot
 Package name | com.example.demo
 Packaging | Jar
-Java | 17
+Java | 17.0.0
 
 * Unzip the file in any directory on your computer. In this tutorial, the directory name is **demo**.
 * Open *Command Prompt/Terminal/Console*.

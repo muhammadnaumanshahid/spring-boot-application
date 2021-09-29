@@ -1,9 +1,31 @@
 # How to Make a Web Application Using Spring Boot
 This tutorial illustrates several micro-services characteristics. You will learn how to develop a “Hello World” web application using Spring Boot, a server-side programming tool.
+
+The tutorial uses following packages/software.
+
+**Package** | **Version** | **Source**
+--- | --- | ---
+Java | 17.0.0 | https://www.oracle.com/java/technologies/downloads
+Apache Maven | 3.8.2 | https://maven.apache.org/download.cgi
+
 ## Task-I
 * Generate Maven project at [Spring Initializr](https://start.spring.io). 
 * This Maven project tutorial uses *Java* JDK 17 and *Spring Boot* 2.5.5.
-* In the **Project Metadata**, set name to "demo" and set all other parameters to default.
+* In the **Project Metadata**, set name to "demo" and set all other parameters to default. All selected parameters are listed in the following table.
+
+**Parameter** | **Value**
+--- | ---
+Project | Maven Project
+Language | Java
+Spring Boot | 2.5.5
+Group | com.example
+Artifact | demo
+Name | demo
+Description | Demo project for Spring Boot
+Package name | com.example.demo
+Packaging | Jar
+Java | 17
+
 * Unzip the file in any directory on your computer. In this tutorial, the directory name is **demo**.
 * Open *Command Prompt/Terminal/Console*.
 * Navigate to the path you unzip the file and get into directory **demo**.

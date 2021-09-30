@@ -11,7 +11,7 @@ Apache Maven | 3.8.2 | https://maven.apache.org/download.cgi
 ## Task-I
 * Generate Maven project at [Spring Initializr](https://start.spring.io). 
 * This Maven project tutorial uses *Java* JDK 17 and *Spring Boot* 2.5.5.
-* In the **Project Metadata**, set name to "demo" and set all other parameters to default. All selected parameters are listed in the following table.
+* In the **Project Metadata**, set name to **demo** and set all other parameters to default. All selected parameters are listed in the following table.
 
 **Parameter** | **Value**
 --- | ---

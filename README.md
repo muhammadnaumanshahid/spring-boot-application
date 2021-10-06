@@ -29,14 +29,14 @@ Java | 17.0.0
 * Unzip the file in any directory on your computer. In this tutorial, the directory name is **demo**.
 * Open *Command Prompt/Terminal/Console*.
 * Navigate to the path you unzip the file and get into directory **demo**.
-* Run the application using the command *mvn spring-boot:run*. 
+* Run the application using the command `mvn spring-boot:run`. 
 ## Task-II
 Make following changes.
 * Add dependencies in the *pom.xml* file.
 * Add *Greeting.java*, *GreetingController.java*, and *MailUser.java* files to *demo/src/main/java/com/example/demo* directory.
 * Move *json* file to *demo/src/main/resources directory*.
 * Navigate to the path of directory **demo**.
-* Run the application using the command *mvn spring-boot:run*.
+* Run the application using the command `mvn spring-boot:run`.
 * Open your default browser and use the following web-links to *get_mails* from and *set_mail* to the database.
   
   *http://localhost:8080/get_mails*
@@ -49,7 +49,7 @@ Make following changes.
 * Add the following code to *application.properties*.
   *server.port=8081*
   *management.port=8082*
-* Run the application using the command *mvn spring-boot:run*.
+* Run the application using the command `mvn spring-boot:run`.
 * Open your default browser and use the following web-link.
   
   *http://localhost:8081/greeting*
